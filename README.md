@@ -3,6 +3,8 @@
 ## By : Shane Pruttinun 
 
 ## About Me
-- Students At OAMK co23
+- Students At OAMK
+
+### Thanks for visiting 
 
 
