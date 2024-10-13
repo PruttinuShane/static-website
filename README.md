@@ -1,7 +1,7 @@
 # Welcome to My Static Website
 
-This is a basic website hosted on **GitHub Pages** using **Markdown**.
-
+## By : Shane Pruttinun 
+Students At OAMK co23
 ## About Me
 I am a web developer learning to build static websites using Markdown.
 
